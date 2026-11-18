@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+transformers
+scikit-learn==1.6.1
+scipy
+numpy
+pandas
+joblib
+pillow

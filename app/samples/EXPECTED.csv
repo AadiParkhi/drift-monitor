@@ -1,0 +1,10 @@
+domain,folder,images,level,cause,impact,fired_by
+places,brightness_s1,100,none,,0.0,
+places,defocus_blur_s3,100,act,defocus_blur,-0.21,dino+convnext
+places,fog_s3,100,act,fog,-0.165,dino+convnext
+places,reference,100,none,,0.0,
+bdd,fog_s3,100,act,fog,-0.22,dino+convnext
+bdd,night_mix_75,100,watch,mix_shift,0.07,dino
+bdd,rain_mix_75,100,watch,mix_shift,0.007,dino
+bdd,reference,100,none,,0.0,
+bdd,twilight_mix_75,100,act,mix_shift,-0.161,dino+convnext
